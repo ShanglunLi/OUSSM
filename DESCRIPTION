@@ -1,0 +1,11 @@
+Package: OUSSM
+Title: OU State Space Model Estimation
+Version: 0.0.0.9000
+Authors@R: 
+    person("Shanglun", "Li", , "sh519468@dal.edu", role = c("aut", "cre"))
+Description: This package is used to estimate the parameters in multi-dimensional Ornstein-Uhlenbeck State Space Model using Kalman Filter.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
