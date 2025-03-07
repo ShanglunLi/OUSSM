@@ -34,7 +34,7 @@
 #' result <- blockDiagonalize(Theta, Z, Sigma)
 #'
 #' @export
-blockDiagonalize <- function(Theta, Z, Sigma) {
+block_diagonalize <- function(Theta, Z, Sigma) {
   library(Matrix)  # Load Matrix package for block diagonalization
   
   # Compute Eigen Decomposition
