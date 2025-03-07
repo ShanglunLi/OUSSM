@@ -31,7 +31,7 @@
 #' Theta <- matrix(c(1, -2, 2, 3), nrow = 2)
 #' Z <- matrix(c(0.5, 1.2, 0.8, -0.3), nrow = 2)
 #' Sigma <- diag(2)
-#' result <- blockDiagonalize(Theta, Z, Sigma)
+#' result <- block_diagonalize(Theta, Z, Sigma)
 #'
 #' @export
 block_diagonalize <- function(Theta, Z, Sigma) {
