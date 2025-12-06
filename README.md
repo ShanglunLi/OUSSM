@@ -112,4 +112,4 @@ print(diag_results$block_matrix)
 
 If you use this package, please cite the accompanying article:
 
-> Li, S., Kenney, T., & Gu, H. (2025). Factor State Space Modelling of the Ornstein-Uhlenbeck Process with Measurement Error and its Application. *Biometrics (Submitted)*.
+> Li, S., Kenney, T., & Gu, H. (2025). Factor State Space Modelling of the Ornstein-Uhlenbeck Process with Measurement Error and its Application. 
