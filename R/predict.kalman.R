@@ -13,8 +13,8 @@
 #'
 #' @return A list containing:
 #' \item{ytn.pred}{A matrix of predicted values for the test set.}
-#' \item{ytn.upper}{A matrix representing the upper bounds of the 95\% confidence interval.}
-#' \item{ytn.lower}{A matrix representing the lower bounds of the 95\% confidence interval.}
+#' \item{ytn.upper}{A matrix representing the upper bounds of the 95 percent confidence interval.}
+#' \item{ytn.lower}{A matrix representing the lower bounds of the 95 percent confidence interval.}
 #'
 #' @details
 #' The function follows these steps:
